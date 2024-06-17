@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajshri24
+- 👋 Hi, I’m Rajshri
 - 👀 I’m interested in Structural Engineering research
 
 <!---
